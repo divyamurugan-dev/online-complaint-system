@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    margin-top: 100;
+    font-family: Arial;
+}
+input {
+    padding: 8px;
+    margin: 6px;
+    width: 200px;
+}
+button{
+    padding: 8px 20px;
+    margin-top: 10px;
+}
